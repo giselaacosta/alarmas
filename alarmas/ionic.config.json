@@ -1,7 +1,8 @@
 {
   "name": "alarmas",
   "integrations": {
-    "capacitor": {}
+    "capacitor": {},
+    "cordova": {}
   },
   "type": "angular"
 }
